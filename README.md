@@ -1,3 +1,5 @@
+This is a modification of the NASWOT repo to use the Fisher measure developed in BlockSwap. It won't work, but it might be a good addition to my thesis :) 
+
 # Neural Architecture Search Without Training 
 
 :warning: Note: this repository has been updated to reflect the [second version](https://arxiv.org/abs/2006.04647) of the paper 
